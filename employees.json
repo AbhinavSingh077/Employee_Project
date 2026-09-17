@@ -1,0 +1,37 @@
+[
+    {
+        "Employee ID": 101,
+        "Employee Name": "Rahul Sharma",
+        "Designation": "Software Developer",
+        "Department": "IT",
+        "Salary": 55000
+    },
+    {
+        "Employee ID": 102,
+        "Employee Name": "Priya Singh",
+        "Designation": "Data Analyst",
+        "Department": "Data Science",
+        "Salary": 50000
+    },
+    {
+        "Employee ID": 103,
+        "Employee Name": "Amit Kumar",
+        "Designation": "Project Manager",
+        "Department": "Management",
+        "Salary": 75000
+    },
+    {
+        "Employee ID": 104,
+        "Employee Name": "Sneha Patel",
+        "Designation": "HR Executive",
+        "Department": "Human Resources",
+        "Salary": 45000
+    },
+    {
+        "Employee ID": 105,
+        "Employee Name": "Vikash Verma",
+        "Designation": "System Engineer",
+        "Department": "IT",
+        "Salary": 60000
+    }
+]
